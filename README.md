@@ -1,6 +1,7 @@
 # aprendendo-vuex
-
+Este projeto foi feito de acordo com o guia https://youtu.be/5lVQgZzLMHc, o git do rapaz está na descrição do vídeo.
 ## Project setup
+Após baixar ou clonar o projeto, entre na pasta do mesmo e instale o node usando o npm install.
 ```
 npm install
 ```
